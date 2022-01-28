@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useEffect, useRef } from 'react';
 import Chat from '../../components/Chat/Chat';
 import { Row, Col } from 'react-bootstrap';
