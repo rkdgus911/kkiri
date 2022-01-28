@@ -1,3 +1,4 @@
+/* eslint-disable no-sequences */
 import { createAction, handleActions } from 'redux-actions';
 import createRequestSaga, {
   createRequestActionTypes,

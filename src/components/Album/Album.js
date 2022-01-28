@@ -1,3 +1,4 @@
+/* eslint-disable array-callback-return */
 import React, { useState } from 'react';
 import { Row, Col } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
